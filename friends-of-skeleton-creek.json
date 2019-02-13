@@ -103,7 +103,7 @@
     {
       "type": "Feature",
       "properties": {
-        "rowid_": ""
+        "rowid_": "5d952a23-0b3a-4338-a4b0-f5f9cb8ba410"
       },
       "geometry": {
         "type": "Polygon",
@@ -155,7 +155,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "rowid_": "66112442-ab0f-4e58-a5cb-849f46ff214b"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -186,7 +188,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "rowid_": "36cdc5ee-4747-45f2-881e-bea627f4e461"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -225,7 +229,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "rowid_": "cb8937a7-dfde-4a1f-8959-7204fecab9b7"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -280,7 +286,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "rowid_": "228e8089-a0ea-4961-a2ba-ef8dd254d292"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -343,7 +351,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "rowid_": "549c7924-7e1f-4674-b899-e5df1889d5ef"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -427,11 +437,7 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5
+        "rowid_": "ceaf9810-30ff-420d-8baf-fff5ff413e7d"
       },
       "geometry": {
         "type": "Polygon",
@@ -463,7 +469,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "rowid_": "1e5ff0b9-50e6-444d-8e4b-f4ce1d8db3e7"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
