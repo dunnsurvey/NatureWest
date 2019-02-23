@@ -578,7 +578,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "rowid_": "4f39eb93-d338-4b12-b36b-81128aa4d7cf"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
